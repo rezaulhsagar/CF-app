@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Codeforces</string>
+    <string name="title_activity_user_stat">UserStat</string>
+    <string name="title_activity_user_stat_invoke">UserStatInvoke</string>
+    <string name="title_activity_user_sub_invoke">UserSubInvoke</string>
+    <string name="title_activity_user_sub">UserSub</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
